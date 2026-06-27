@@ -1,0 +1,158 @@
+{
+  "generations": [
+    {
+      "customer_name": "hari priya",
+      "room_length": 11,
+      "room_width": 9,
+      "room_height": 9,
+      "budget": 50000,
+      "device_type": "PC",
+      "theme": "Dark",
+      "input_json": "{\"customer_name\":\"hari priya\",\"room_length\":11,\"room_width\":9,\"room_height\":9,\"budget\":50000,\"device_type\":\"PC\",\"theme\":\"Dark\",\"current_setup\":\"gaming chair , a random table\",\"desk_size\":\"Standard Straight Desk\",\"lighting\":\"RGB backlighting, screenbar\",\"cable_management\":\"Advanced (Invisible in-wall run)\",\"storage\":\"None\",\"notes\":\"\"}",
+      "ai_response": "{\"isMock\":true,\"deskArrangement\":{\"title\":\"Desk Arrangement\",\"description\":\"For a room measuring 11x9 ft, we recommend placing your Standard Straight Desk desk against the primary wall, facing away from direct window glare.\",\"details\":[\"Place the desk centering on the 11 ft wall to allow at least 3 ft of walking space behind the chair.\",\"Avoid placing the desk directly in front of the door to enhance focus and minimize distractions.\",\"Position the setup at least 1 foot away from the wall to allow for adequate cable drop and ventilation.\"]},\"devicePlacement\":{\"title\":\"Monitor & Device Placement\",\"description\":\"Optimizing display alignment for a PC-based setup to prevent neck strain and improve gaming performance.\",\"details\":[\"Position the primary screen at a distance of 20-30 inches from your eyes (roughly one arm's length).\",\"Align the top third of the monitor screen with your eye level when sitting upright.\",\"Mount the display on a mechanical monitor arm to free up valuable real estate on your desk.\"]},\"chairPlacement\":{\"title\":\"Ergonomic Chair Position\",\"description\":\"Adjusting chair positioning relative to the desk heights and room doorways.\",\"details\":[\"Seat height should be adjusted so your feet rest flat on the floor, with knees at a 90-degree angle.\",\"Position the chair close enough to the desk so your elbows are bent at 90-100 degrees while typing.\",\"Maintain a clearance of 3 feet behind the chair to swing or roll back without hitting closets or walls.\"]},\"lightingSuggestion\":{\"title\":\"Lighting & Ambience Plan\",\"description\":\"Theme-specific lighting matching the Dark vibe using a Deep Matte Black, Obsidian, and Crimson Red Accents palette.\",\"details\":[\"Use dark ambient red or purple background LED backlighting.\",\"Ensure task lighting is focused only on the keyboard using a directional spotlight.\",\"Use blackout curtains to restrict daylight and maintain consistent dark mode aesthetics.\"]},\"cableManagement\":{\"title\":\"Cable Management Plan\",\"description\":\"Recommendations to handle the requested cable management: \\\"Advanced (Invisible in-wall run)\\\".\",\"details\":[\"Mount a heavy-duty NETHI cable management tray/basket underneath the desk surface.\",\"Use Velcro straps (avoid zip-ties for cables you change often) to bundle power and display cords into a single channel.\",\"Place a 5-outlet surge protector box inside the tray, feeding only a single thick extension cable down to the wall outlet.\"]},\"accessories\":{\"title\":\"Nethi Mallikarjun Gupta Accessory Recommendations\",\"description\":\"Curated additions matching your ₹50,000 budget to complete the ultimate setup:\",\"list\":[{\"name\":\"Aero-Mesh Gaming Chair\",\"brand\":\"NETHI Airflow-V2\",\"price\":\"₹11,999\",\"reason\":\"Breathable mesh back optimized for Hyderabad's hot weather, maintaining ergonomic spine alignment.\"},{\"name\":\"Single Gas-Spring Monitor Arm\",\"brand\":\"NETHI Ergo-Flex Solo\",\"price\":\"₹2,899\",\"reason\":\"Sturdy metallic desk clamp supporting up to 32\\\" displays with cable routing channels.\"},{\"name\":\"RGB Wired Mechanical Keyboard\",\"brand\":\"NETHI Combat Blue-Switch\",\"price\":\"₹3,299\",\"reason\":\"Clicks satisfy tactile response requirements, built with solid metal top plate.\"},{\"name\":\"RGB Wired Gaming Mouse\",\"brand\":\"NETHI Pulse RGB\",\"price\":\"₹1,499\",\"reason\":\"Sleek honeycomb shell with side macro buttons for customizable shortcuts.\"}]},\"budgetRecommendations\":{\"title\":\"Budget Utilization Breakdown\",\"description\":\"Detailed recommendation on allocating your ₹50,000 budget:\",\"details\":[\"Allocate roughly 30% (₹15,000) towards a high-quality desk and ergonomic NETHI chair, as this prevents physical strain.\",\"Dedicate 50% (₹25,000) towards functional hardware upgrades (like double arms or gaming accessories).\",\"Reserve 20% (₹10,000) for styling improvements (cables, RGB lighting, acoustic panels).\"]},\"safetyComfortTips\":{\"title\":\"Safety & Comfort Tips\",\"description\":\"Important tips regarding healthy ergonomics, eye care, and electrical safety.\",\"details\":[\"Follow the 20-20-20 rule: Every 20 minutes, look at an object 20 feet away for at least 20 seconds.\",\"Never overload a single wall extension box. Split high-wattage hardware (like a PC tower and heaters) into separate wall sockets.\",\"Ensure proper ventilation around your system. A PC tower should have at least 6 inches of clearance on all sides for optimal air intake/exhaust.\"]},\"summary\":{\"title\":\"Final Setup Summary\",\"description\":\"The proposed Dark themed setup creates an amazing, productive, and immersive environment for hari priya. Combining ergonomic NETHI seating with organized cable routing and custom Deep Matte Black, Obsidian, and Crimson Red Accents lighting will completely transform this room into a professional-grade gaming room.\"},\"response_time_ms\":30}",
+      "response_time_ms": 30,
+      "id": "gen_1781500660302_des4u",
+      "created_at": "2026-06-15T05:17:40.302Z"
+    },
+    {
+      "customer_name": "Nikhil Rao",
+      "room_length": 12,
+      "room_width": 10,
+      "room_height": 9,
+      "budget": 75000,
+      "device_type": "PC",
+      "theme": "RGB",
+      "input_json": "{\"customer_name\":\"Nikhil Rao\",\"room_length\":12,\"room_width\":10,\"room_height\":9,\"budget\":75000,\"device_type\":\"PC\",\"theme\":\"RGB\",\"current_setup\":\"Single monitor on an old standard wooden office table.\",\"desk_size\":\"Standard L-Shape (60x30 in)\",\"lighting\":\"RGB Strips, Ambient Lighting, Neon sign\",\"cable_management\":\"Under desk tray, Zip ties\",\"storage\":\"Pegboard, Under desk drawers\",\"notes\":\"Mainly plays multiplayer competitive shooter games, wants the setup to look clean and futuristic.\"}",
+      "ai_response": "{\"isMock\":true,\"deskArrangement\":{\"title\":\"Desk Arrangement\",\"description\":\"For a room measuring 12x10 ft, we recommend placing your Standard L-Shape (60x30 in) desk against the primary wall, facing away from direct window glare.\",\"details\":[\"Place the desk centering on the 12 ft wall to allow at least 3 ft of walking space behind the chair.\",\"Avoid placing the desk directly in front of the door to enhance focus and minimize distractions.\",\"Position the setup at least 1 foot away from the wall to allow for adequate cable drop and ventilation.\"]},\"devicePlacement\":{\"title\":\"Monitor & Device Placement\",\"description\":\"Optimizing display alignment for a PC-based setup to prevent neck strain and improve gaming performance.\",\"details\":[\"Position the primary screen at a distance of 20-30 inches from your eyes (roughly one arm's length).\",\"Align the top third of the monitor screen with your eye level when sitting upright.\",\"Mount the display on a mechanical monitor arm to free up valuable real estate on your desk.\"]},\"chairPlacement\":{\"title\":\"Ergonomic Chair Position\",\"description\":\"Adjusting chair positioning relative to the desk heights and room doorways.\",\"details\":[\"Seat height should be adjusted so your feet rest flat on the floor, with knees at a 90-degree angle.\",\"Position the chair close enough to the desk so your elbows are bent at 90-100 degrees while typing.\",\"Maintain a clearance of 3 feet behind the chair to swing or roll back without hitting closets or walls.\"]},\"lightingSuggestion\":{\"title\":\"Lighting & Ambience Plan\",\"description\":\"Theme-specific lighting matching the RGB vibe using a Vibrant Neon Pink, Cyan, and Deep Blue palette.\",\"details\":[\"Install NETHI Smart RGBIC LED Strips along the back edge of the desk for ambient back-wall glowing.\",\"Add two vertical RGB light bars behind the monitor, synchronized to screen colors.\",\"Place an RGB gaming mousepad under the keyboard and mouse.\"]},\"cableManagement\":{\"title\":\"Cable Management Plan\",\"description\":\"Recommendations to handle the requested cable management: \\\"Under desk tray, Zip ties\\\".\",\"details\":[\"Mount a heavy-duty NETHI cable management tray/basket underneath the desk surface.\",\"Use Velcro straps (avoid zip-ties for cables you change often) to bundle power and display cords into a single channel.\",\"Place a 5-outlet surge protector box inside the tray, feeding only a single thick extension cable down to the wall outlet.\"]},\"accessories\":{\"title\":\"Nethi Mallikarjun Gupta Accessory Recommendations\",\"description\":\"Curated additions matching your ₹75,000 budget to complete the ultimate setup:\",\"list\":[{\"name\":\"Aero-Mesh Gaming Chair\",\"brand\":\"NETHI Airflow-V2\",\"price\":\"₹11,999\",\"reason\":\"Breathable mesh back optimized for Hyderabad's hot weather, maintaining ergonomic spine alignment.\"},{\"name\":\"Single Gas-Spring Monitor Arm\",\"brand\":\"NETHI Ergo-Flex Solo\",\"price\":\"₹2,899\",\"reason\":\"Sturdy metallic desk clamp supporting up to 32\\\" displays with cable routing channels.\"},{\"name\":\"RGB Wired Mechanical Keyboard\",\"brand\":\"NETHI Combat Blue-Switch\",\"price\":\"₹3,299\",\"reason\":\"Clicks satisfy tactile response requirements, built with solid metal top plate.\"},{\"name\":\"RGB Wired Gaming Mouse\",\"brand\":\"NETHI Pulse RGB\",\"price\":\"₹1,499\",\"reason\":\"Sleek honeycomb shell with side macro buttons for customizable shortcuts.\"}]},\"budgetRecommendations\":{\"title\":\"Budget Utilization Breakdown\",\"description\":\"Detailed recommendation on allocating your ₹75,000 budget:\",\"details\":[\"Allocate roughly 30% (₹22,500) towards a high-quality desk and ergonomic NETHI chair, as this prevents physical strain.\",\"Dedicate 50% (₹37,500) towards functional hardware upgrades (like double arms or gaming accessories).\",\"Reserve 20% (₹15,000) for styling improvements (cables, RGB lighting, acoustic panels).\"]},\"safetyComfortTips\":{\"title\":\"Safety & Comfort Tips\",\"description\":\"Important tips regarding healthy ergonomics, eye care, and electrical safety.\",\"details\":[\"Follow the 20-20-20 rule: Every 20 minutes, look at an object 20 feet away for at least 20 seconds.\",\"Never overload a single wall extension box. Split high-wattage hardware (like a PC tower and heaters) into separate wall sockets.\",\"Ensure proper ventilation around your system. A PC tower should have at least 6 inches of clearance on all sides for optimal air intake/exhaust.\"]},\"summary\":{\"title\":\"Final Setup Summary\",\"description\":\"The proposed RGB themed setup creates an amazing, productive, and immersive environment for Nikhil Rao. Combining ergonomic NETHI seating with organized cable routing and custom Vibrant Neon Pink, Cyan, and Deep Blue lighting will completely transform this room into a professional-grade gaming room.\"},\"response_time_ms\":47}",
+      "response_time_ms": 47,
+      "id": "gen_1781799779923_vlkuc",
+      "created_at": "2026-06-18T16:22:59.923Z"
+    },
+    {
+      "customer_name": "Nikhil Rao",
+      "room_length": 12,
+      "room_width": 10,
+      "room_height": 9,
+      "budget": 75000,
+      "device_type": "PC",
+      "theme": "RGB",
+      "input_json": "{\"customer_name\":\"Nikhil Rao\",\"room_length\":12,\"room_width\":10,\"room_height\":9,\"budget\":75000,\"device_type\":\"PC\",\"theme\":\"RGB\",\"current_setup\":\"Single monitor on an old standard wooden office table.\",\"desk_size\":\"Standard L-Shape (60x30 in)\",\"lighting\":\"RGB Strips, Ambient Lighting, Neon sign\",\"cable_management\":\"Under desk tray, Zip ties\",\"storage\":\"Pegboard, Under desk drawers\",\"notes\":\"Mainly plays multiplayer competitive shooter games, wants the setup to look clean and futuristic.\"}",
+      "ai_response": "{\"isMock\":true,\"deskArrangement\":{\"title\":\"Desk Arrangement\",\"description\":\"For a room measuring 12x10 ft, we recommend placing your Standard L-Shape (60x30 in) desk against the primary wall, facing away from direct window glare.\",\"details\":[\"Place the desk centering on the 12 ft wall to allow at least 3 ft of walking space behind the chair.\",\"Avoid placing the desk directly in front of the door to enhance focus and minimize distractions.\",\"Position the setup at least 1 foot away from the wall to allow for adequate cable drop and ventilation.\"]},\"devicePlacement\":{\"title\":\"Monitor & Device Placement\",\"description\":\"Optimizing display alignment for a PC-based setup to prevent neck strain and improve gaming performance.\",\"details\":[\"Position the primary screen at a distance of 20-30 inches from your eyes (roughly one arm's length).\",\"Align the top third of the monitor screen with your eye level when sitting upright.\",\"Mount the display on a mechanical monitor arm to free up valuable real estate on your desk.\"]},\"chairPlacement\":{\"title\":\"Ergonomic Chair Position\",\"description\":\"Adjusting chair positioning relative to the desk heights and room doorways.\",\"details\":[\"Seat height should be adjusted so your feet rest flat on the floor, with knees at a 90-degree angle.\",\"Position the chair close enough to the desk so your elbows are bent at 90-100 degrees while typing.\",\"Maintain a clearance of 3 feet behind the chair to swing or roll back without hitting closets or walls.\"]},\"lightingSuggestion\":{\"title\":\"Lighting & Ambience Plan\",\"description\":\"Theme-specific lighting matching the RGB vibe using a Vibrant Neon Pink, Cyan, and Deep Blue palette.\",\"details\":[\"Install NETHI Smart RGBIC LED Strips along the back edge of the desk for ambient back-wall glowing.\",\"Add two vertical RGB light bars behind the monitor, synchronized to screen colors.\",\"Place an RGB gaming mousepad under the keyboard and mouse.\"]},\"cableManagement\":{\"title\":\"Cable Management Plan\",\"description\":\"Recommendations to handle the requested cable management: \\\"Under desk tray, Zip ties\\\".\",\"details\":[\"Mount a heavy-duty NETHI cable management tray/basket underneath the desk surface.\",\"Use Velcro straps (avoid zip-ties for cables you change often) to bundle power and display cords into a single channel.\",\"Place a 5-outlet surge protector box inside the tray, feeding only a single thick extension cable down to the wall outlet.\"]},\"accessories\":{\"title\":\"Nethi Mallikarjun Gupta Accessory Recommendations\",\"description\":\"Curated additions matching your ₹75,000 budget to complete the ultimate setup:\",\"list\":[{\"name\":\"Aero-Mesh Gaming Chair\",\"brand\":\"NETHI Airflow-V2\",\"price\":\"₹11,999\",\"reason\":\"Breathable mesh back optimized for Hyderabad's hot weather, maintaining ergonomic spine alignment.\"},{\"name\":\"Single Gas-Spring Monitor Arm\",\"brand\":\"NETHI Ergo-Flex Solo\",\"price\":\"₹2,899\",\"reason\":\"Sturdy metallic desk clamp supporting up to 32\\\" displays with cable routing channels.\"},{\"name\":\"RGB Wired Mechanical Keyboard\",\"brand\":\"NETHI Combat Blue-Switch\",\"price\":\"₹3,299\",\"reason\":\"Clicks satisfy tactile response requirements, built with solid metal top plate.\"},{\"name\":\"RGB Wired Gaming Mouse\",\"brand\":\"NETHI Pulse RGB\",\"price\":\"₹1,499\",\"reason\":\"Sleek honeycomb shell with side macro buttons for customizable shortcuts.\"}]},\"budgetRecommendations\":{\"title\":\"Budget Utilization Breakdown\",\"description\":\"Detailed recommendation on allocating your ₹75,000 budget:\",\"details\":[\"Allocate roughly 30% (₹22,500) towards a high-quality desk and ergonomic NETHI chair, as this prevents physical strain.\",\"Dedicate 50% (₹37,500) towards functional hardware upgrades (like double arms or gaming accessories).\",\"Reserve 20% (₹15,000) for styling improvements (cables, RGB lighting, acoustic panels).\"]},\"safetyComfortTips\":{\"title\":\"Safety & Comfort Tips\",\"description\":\"Important tips regarding healthy ergonomics, eye care, and electrical safety.\",\"details\":[\"Follow the 20-20-20 rule: Every 20 minutes, look at an object 20 feet away for at least 20 seconds.\",\"Never overload a single wall extension box. Split high-wattage hardware (like a PC tower and heaters) into separate wall sockets.\",\"Ensure proper ventilation around your system. A PC tower should have at least 6 inches of clearance on all sides for optimal air intake/exhaust.\"]},\"summary\":{\"title\":\"Final Setup Summary\",\"description\":\"The proposed RGB themed setup creates an amazing, productive, and immersive environment for Nikhil Rao. Combining ergonomic NETHI seating with organized cable routing and custom Vibrant Neon Pink, Cyan, and Deep Blue lighting will completely transform this room into a professional-grade gaming room.\"},\"response_time_ms\":88}",
+      "response_time_ms": 88,
+      "id": "gen_1781845006299_pi4ro",
+      "created_at": "2026-06-19T04:56:46.300Z"
+    },
+    {
+      "customer_name": "Nikhil Rao",
+      "room_length": 15,
+      "room_width": 10,
+      "room_height": 9,
+      "budget": 79998,
+      "device_type": "Laptop",
+      "theme": "Minimal",
+      "input_json": "{\"customer_name\":\"Nikhil Rao\",\"room_length\":15,\"room_width\":10,\"room_height\":9,\"budget\":79998,\"device_type\":\"Laptop\",\"theme\":\"Minimal\",\"current_setup\":\"\",\"desk_size\":\"Standard Straight Desk\",\"lighting\":\"RGB backlighting, screenbar\",\"cable_management\":\"Under-desk tray, sleeves\",\"storage\":\"None\",\"notes\":\"\"}",
+      "ai_response": "{\"isMock\":true,\"deskArrangement\":{\"title\":\"Desk Arrangement\",\"description\":\"For a room measuring 15x10 ft, we recommend placing your Standard Straight Desk desk against the primary wall, facing away from direct window glare.\",\"details\":[\"Place the desk centering on the 15 ft wall to allow at least 3 ft of walking space behind the chair.\",\"Avoid placing the desk directly in front of the door to enhance focus and minimize distractions.\",\"Position the setup at least 1 foot away from the wall to allow for adequate cable drop and ventilation.\"]},\"devicePlacement\":{\"title\":\"Monitor & Device Placement\",\"description\":\"Optimizing display alignment for a Laptop-based setup to prevent neck strain and improve gaming performance.\",\"details\":[\"Position the primary screen at a distance of 20-30 inches from your eyes (roughly one arm's length).\",\"Align the top third of the monitor screen with your eye level when sitting upright.\",\"Use a laptop riser or external monitor mount so you do not hunch over the built-in keyboard.\"]},\"chairPlacement\":{\"title\":\"Ergonomic Chair Position\",\"description\":\"Adjusting chair positioning relative to the desk heights and room doorways.\",\"details\":[\"Seat height should be adjusted so your feet rest flat on the floor, with knees at a 90-degree angle.\",\"Position the chair close enough to the desk so your elbows are bent at 90-100 degrees while typing.\",\"Maintain a clearance of 3 feet behind the chair to swing or roll back without hitting closets or walls.\"]},\"lightingSuggestion\":{\"title\":\"Lighting & Ambience Plan\",\"description\":\"Theme-specific lighting matching the Minimal vibe using a Warm Oak, Matte White, and Charcoal Grey palette.\",\"details\":[\"Mount a NETHI Warm LED monitor light bar (screenbar) to reduce eye strain without glare.\",\"Place a minimal warm white desk lamp on the left side of the table for task lighting.\",\"Use subtle warm-white under-cabinet puck lights if using floating shelves.\"]},\"cableManagement\":{\"title\":\"Cable Management Plan\",\"description\":\"Recommendations to handle the requested cable management: \\\"Under-desk tray, sleeves\\\".\",\"details\":[\"Mount a heavy-duty NETHI cable management tray/basket underneath the desk surface.\",\"Use Velcro straps (avoid zip-ties for cables you change often) to bundle power and display cords into a single channel.\",\"Place a 5-outlet surge protector box inside the tray, feeding only a single thick extension cable down to the wall outlet.\"]},\"accessories\":{\"title\":\"Nethi Mallikarjun Gupta Accessory Recommendations\",\"description\":\"Curated additions matching your ₹79,998 budget to complete the ultimate setup:\",\"list\":[{\"name\":\"Aero-Mesh Gaming Chair\",\"brand\":\"NETHI Airflow-V2\",\"price\":\"₹11,999\",\"reason\":\"Breathable mesh back optimized for Hyderabad's hot weather, maintaining ergonomic spine alignment.\"},{\"name\":\"Single Gas-Spring Monitor Arm\",\"brand\":\"NETHI Ergo-Flex Solo\",\"price\":\"₹2,899\",\"reason\":\"Sturdy metallic desk clamp supporting up to 32\\\" displays with cable routing channels.\"},{\"name\":\"RGB Wired Mechanical Keyboard\",\"brand\":\"NETHI Combat Blue-Switch\",\"price\":\"₹3,299\",\"reason\":\"Clicks satisfy tactile response requirements, built with solid metal top plate.\"},{\"name\":\"RGB Wired Gaming Mouse\",\"brand\":\"NETHI Pulse RGB\",\"price\":\"₹1,499\",\"reason\":\"Sleek honeycomb shell with side macro buttons for customizable shortcuts.\"}]},\"budgetRecommendations\":{\"title\":\"Budget Utilization Breakdown\",\"description\":\"Detailed recommendation on allocating your ₹79,998 budget:\",\"details\":[\"Allocate roughly 30% (₹23,999.4) towards a high-quality desk and ergonomic NETHI chair, as this prevents physical strain.\",\"Dedicate 50% (₹39,999) towards functional hardware upgrades (like double arms or gaming accessories).\",\"Reserve 20% (₹15,999.6) for styling improvements (cables, RGB lighting, acoustic panels).\"]},\"safetyComfortTips\":{\"title\":\"Safety & Comfort Tips\",\"description\":\"Important tips regarding healthy ergonomics, eye care, and electrical safety.\",\"details\":[\"Follow the 20-20-20 rule: Every 20 minutes, look at an object 20 feet away for at least 20 seconds.\",\"Never overload a single wall extension box. Split high-wattage hardware (like a PC tower and heaters) into separate wall sockets.\",\"Ensure proper ventilation around your system. A PC tower should have at least 6 inches of clearance on all sides for optimal air intake/exhaust.\"]},\"summary\":{\"title\":\"Final Setup Summary\",\"description\":\"The proposed Minimal themed setup creates an amazing, productive, and immersive environment for Nikhil Rao. Combining ergonomic NETHI seating with organized cable routing and custom Warm Oak, Matte White, and Charcoal Grey lighting will completely transform this room into a professional-grade gaming room.\"},\"response_time_ms\":0}",
+      "response_time_ms": 100,
+      "id": "gen_1781847636508_2elmt",
+      "created_at": "2026-06-19T05:40:36.508Z"
+    }
+  ],
+  "feedback": [
+    {
+      "generation_id": "gen_1781500660302_des4u",
+      "rating": 5,
+      "comment": ".",
+      "id": "fee_1781500706346_f0snv",
+      "created_at": "2026-06-15T05:18:26.346Z"
+    },
+    {
+      "generation_id": "gen_1781799779923_vlkuc",
+      "rating": 5,
+      "comment": "f",
+      "id": "fee_1781799887795_p4yjn",
+      "created_at": "2026-06-18T16:24:47.795Z"
+    }
+  ],
+  "templates": [
+    {
+      "id": "tpl_1",
+      "template_name": "RGB Cyberpunk PC Setup",
+      "input_values": {
+        "customer_name": "Nikhil Rao",
+        "room_length": "12",
+        "room_width": "10",
+        "room_height": "9",
+        "budget": "75000",
+        "device_type": "PC",
+        "current_setup": "Single monitor on an old standard wooden office table.",
+        "theme": "RGB",
+        "desk_size": "Standard L-Shape (60x30 in)",
+        "lighting": "RGB Strips, Ambient Lighting, Neon sign",
+        "cable_management": "Under desk tray, Zip ties",
+        "storage": "Pegboard, Under desk drawers",
+        "notes": "Mainly plays multiplayer competitive shooter games, wants the setup to look clean and futuristic."
+      },
+      "created_at": "2026-06-15T00:00:00Z"
+    },
+    {
+      "id": "tpl_2",
+      "template_name": "Minimalist Warm Wood Laptop Setup",
+      "input_values": {
+        "customer_name": "Ananya Sharma",
+        "room_length": "10",
+        "room_width": "8",
+        "room_height": "8.5",
+        "budget": "45000",
+        "device_type": "Laptop",
+        "current_setup": "MacBook Pro on a small desk in the corner.",
+        "theme": "Minimal",
+        "desk_size": "Compact Straight Desk (48x24 in)",
+        "lighting": "Warm white desk lamp, Screenbar light",
+        "cable_management": "Velcro cable sleeve, adhesive clips",
+        "storage": "Monitor riser with drawer",
+        "notes": "Focuses on productivity and occasional light gaming. Prefers natural/minimal aesthetics with wood accents."
+      },
+      "created_at": "2026-06-15T00:00:00Z"
+    },
+    {
+      "id": "tpl_3",
+      "template_name": "Futuristic Console Command Center",
+      "input_values": {
+        "customer_name": "Pavan Kalyan",
+        "room_length": "14",
+        "room_width": "12",
+        "room_height": "9",
+        "budget": "120000",
+        "device_type": "Console",
+        "current_setup": "PS5 connected to a 55\" TV on a simple cabinet, sitting on a sofa.",
+        "theme": "Futuristic",
+        "desk_size": "Large Custom Console Center",
+        "lighting": "Smart lightbars, reactive backlighting",
+        "cable_management": "In-wall run, cable trunking",
+        "storage": "Floating shelves for physical game disks and controllers",
+        "notes": "Plays PS5 games, wants comfortable gaming chair or bean bag, wants a premium experience."
+      },
+      "created_at": "2026-06-15T00:00:00Z"
+    },
+    {
+      "id": "tpl_4",
+      "template_name": "Premium Multi-Device Powerstation",
+      "input_values": {
+        "customer_name": "Vikram Sen",
+        "room_length": "15",
+        "room_width": "12",
+        "room_height": "9.5",
+        "budget": "200000",
+        "device_type": "Multi-device",
+        "current_setup": "Gaming PC + Mac Studio + Dual Monitors + iPad. Table is crowded.",
+        "theme": "Premium",
+        "desk_size": "Dual-motor Sit-Stand Desk (72x30 in)",
+        "lighting": "Smart LED Panels (Nanoleaf), task lighting, floor lamps",
+        "cable_management": "Cable tray, magnetic snake guide, braided wraps",
+        "storage": "Drawer cabinet, headphone stand, accessory docks",
+        "notes": "Works in software dev, streams console/PC games. Needs smooth switching between systems and excellent ergonomics."
+      },
+      "created_at": "2026-06-15T00:00:00Z"
+    }
+  ]
+}
