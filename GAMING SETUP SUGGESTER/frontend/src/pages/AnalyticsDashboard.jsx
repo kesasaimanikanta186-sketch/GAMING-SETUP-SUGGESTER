@@ -6,7 +6,7 @@ const AnalyticsDashboard = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/analytics')
+    fetch('https://gaming-setup-suggester-1.onrender.com/api/analytics')
       .then(res => {
         if (!res.ok) throw new Error('Failed to fetch analytics');
         return res.json();

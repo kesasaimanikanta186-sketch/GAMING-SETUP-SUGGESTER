@@ -11,8 +11,8 @@ const AdminDashboard = () => {
   const fetchAdminData = () => {
     setLoading(true);
     Promise.all([
-      fetch('http://localhost:5000/api/history').then(res => res.json()),
-      fetch('http://localhost:5000/api/analytics').then(res => res.json())
+      fetch('https://gaming-setup-suggester-1.onrender.com/api/history').then(res => res.json()),
+      fetch('https://gaming-setup-suggester-1.onrender.com/api/analytics').then(res => res.json())
     ])
       .then(([historyData, analyticsData]) => {
         setGenerations(historyData);
@@ -31,7 +31,7 @@ const AdminDashboard = () => {
 
   const handleInspect = (id) => {
     // Fetch details of specific item
-    fetch(`http://localhost:5000/api/history/${id}`)
+    fetch(`https://gaming-setup-suggester-1.onrender.com/api/history/${id}`)
       .then(res => {
         if (!res.ok) throw new Error('Failed to fetch item details');
         return res.json();
