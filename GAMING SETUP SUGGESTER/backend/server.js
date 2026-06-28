@@ -9,11 +9,19 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // Enable CORS for frontend requests
-app.use(cors({
-  origin: '*', // Allow any client to connect during local workspace dev
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
-  allowedHeaders: ['Content-Type', 'Authorization']
-}));
+const corsOptions = {
+  origin: [
+    "https://gaming-setup-suggester-94nv.vercel.app",
+    /\.vercel\.app$/,
+    /http:\/\/localhost:\d+/
+  ],
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  credentials: true,
+  allowedHeaders: ["Content-Type", "Authorization"]
+};
+
+app.use(cors(corsOptions));
+app.options('*', cors(corsOptions));
 
 // Parse JSON request bodies
 app.use(express.json());

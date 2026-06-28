@@ -24,6 +24,8 @@ router.get('/templates', (req, res) => {
  */
 router.post('/generate', async (req, res) => {
   try {
+    console.log("Generate endpoint called");
+    console.log(req.body);
     const {
       customer_name,
       room_length,
@@ -97,7 +99,10 @@ router.post('/generate', async (req, res) => {
 
   } catch (error) {
     console.error('Error during setup generation:', error);
-    res.status(500).json({ error: 'Failed to generate design suggestions', message: error.message });
+    res.status(500).json({
+      success: false,
+      message: error.message
+    });
   }
 });
 

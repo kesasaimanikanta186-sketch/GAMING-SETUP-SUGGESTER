@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { Shield, Eye, Trash2, Cpu, FileText, CheckCircle, RefreshCw, X, MessageSquare } from 'lucide-react';
+import { Shield, Eye, Trash2, Cpu, FileText, CheckCircle, RefreshCw, X, MessageSquare, Star } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const AdminDashboard = () => {
   const [generations, setGenerations] = useState([]);
@@ -11,8 +12,8 @@ const AdminDashboard = () => {
   const fetchAdminData = () => {
     setLoading(true);
     Promise.all([
-      fetch('https://gaming-setup-suggester-1.onrender.com/api/history').then(res => res.json()),
-      fetch('https://gaming-setup-suggester-1.onrender.com/api/analytics').then(res => res.json())
+      fetch(`${API_BASE}/api/history`).then(res => res.json()),
+      fetch(`${API_BASE}/api/analytics`).then(res => res.json())
     ])
       .then(([historyData, analyticsData]) => {
         setGenerations(historyData);
@@ -31,7 +32,7 @@ const AdminDashboard = () => {
 
   const handleInspect = (id) => {
     // Fetch details of specific item
-    fetch(`https://gaming-setup-suggester-1.onrender.com/api/history/${id}`)
+    fetch(`${API_BASE}/api/history/${id}`)
       .then(res => {
         if (!res.ok) throw new Error('Failed to fetch item details');
         return res.json();

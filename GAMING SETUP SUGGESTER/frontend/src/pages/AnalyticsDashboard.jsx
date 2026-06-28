@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Cpu, Star, BarChart3, PieChart, TrendingUp, HelpCircle } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const AnalyticsDashboard = () => {
   const [stats, setStats] = useState(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('https://gaming-setup-suggester-1.onrender.com/api/analytics')
+    fetch(`${API_BASE}/api/analytics`)
       .then(res => {
         if (!res.ok) throw new Error('Failed to fetch analytics');
         return res.json();

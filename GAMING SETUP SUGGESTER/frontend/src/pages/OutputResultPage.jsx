@@ -5,6 +5,7 @@ import {
   MapPin, Monitor, Armchair, Lightbulb, Cable, ShoppingBag, 
   DollarSign, ShieldAlert, FileText, Send 
 } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const OutputResultPage = () => {
   const location = useLocation();
@@ -107,7 +108,7 @@ const OutputResultPage = () => {
 
     setFeedbackLoading(true);
     try {
-      const response = await fetch('https://gaming-setup-suggester-1.onrender.com/api/feedback', {
+      const response = await fetch(`${API_BASE}/api/feedback`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

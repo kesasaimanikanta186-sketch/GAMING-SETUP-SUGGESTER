@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Search, Eye, Filter, Cpu, Calendar, Tag, ArrowRight } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const HistoryPage = () => {
   const navigate = useNavigate();
@@ -13,7 +14,7 @@ const HistoryPage = () => {
   const [selectedTheme, setSelectedTheme] = useState('');
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/history')
+    fetch(`${API_BASE}/api/history`)
       .then(res => {
         if (!res.ok) throw new Error('Failed to load history');
         return res.json();

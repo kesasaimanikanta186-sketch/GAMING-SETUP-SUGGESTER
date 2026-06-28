@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Compass, Sparkles, LayoutGrid, Wrench, RefreshCw, Cpu, Layers } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const InputFormPage = () => {
   const navigate = useNavigate();
@@ -35,7 +36,7 @@ const InputFormPage = () => {
 
   // Fetch templates on mount
   useEffect(() => {
-    fetch('http://localhost:5000/api/templates')
+    fetch(`${API_BASE}/api/templates`)
       .then(res => {
         if (!res.ok) throw new Error('Network error');
         return res.json();
@@ -135,7 +136,7 @@ const InputFormPage = () => {
     setApiError('');
 
     try {
-      const response = await fetch('http://localhost:5000/api/generate', {
+      const response = await fetch(`${API_BASE}/api/generate`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
